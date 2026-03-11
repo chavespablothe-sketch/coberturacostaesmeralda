@@ -80,9 +80,9 @@ const AticoSection = () => {
       {/* Espaço Gourmet */}
       <div className="py-0">
         <div className="fade-section">
-          <img
-            src={gallery6}
-            alt="Espaço gourmet do Ático com churrasqueira e vista panorâmica"
+            <img
+             src={terrace}
+             alt="Espaço gourmet do Ático com churrasqueira e vista panorâmica"
             className="w-full h-[400px] md:h-[550px] object-cover brightness-110 contrast-105"
             loading="lazy"
           />

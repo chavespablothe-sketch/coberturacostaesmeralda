@@ -19,6 +19,7 @@ const Index = () => {
       <OverviewSection />
       <LocationSection />
       <FirstFloorSection />
+      <SuitesSection />
       <AticoSection />
       <GallerySection />
       <FloorplanSection />
