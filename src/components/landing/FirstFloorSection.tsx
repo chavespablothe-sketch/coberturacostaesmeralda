@@ -1,5 +1,5 @@
 import luzNatural from "@/assets/property/luz-natural.png";
-import interior1 from "@/assets/property/interior1.jpg";
+import livingViewImg from "@/assets/property/living-view.png";
 import kitchen from "@/assets/property/kitchen.jpg";
 
 const FirstFloorSection = () => {
