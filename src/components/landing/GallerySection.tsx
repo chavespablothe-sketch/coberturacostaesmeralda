@@ -3,7 +3,6 @@ import { X, ChevronLeft, ChevronRight } from "lucide-react";
 
 import view from "@/assets/property/view.jpg";
 import interior1 from "@/assets/property/interior1.jpg";
-import interior2 from "@/assets/property/interior2.jpg";
 import living from "@/assets/property/living.jpg";
 import livingView from "@/assets/property/living-view.png";
 import gallery1 from "@/assets/property/gallery1.jpg";
@@ -18,7 +17,6 @@ const images = [
   { src: living, alt: "Sala de estar" },
   { src: livingView, alt: "Sala de estar com vista" },
   { src: interior1, alt: "Estar social com vista para o mar" },
-  { src: interior2, alt: "Estar social — outro ângulo" },
   { src: gallery2, alt: "Cozinha — detalhe" },
   { src: gallery5, alt: "Cozinha e Churrasqueira do Ático" },
   { src: jacuzzi, alt: "Jacuzzi instalada — Ático" },

@@ -71,7 +71,7 @@ const AticoSection = () => {
                 <div className="w-12 h-[1px] mb-6" style={{ backgroundColor: "rgba(198, 163, 106, 0.4)" }} />
                 <p className="text-sm font-sans text-primary-foreground/70 leading-relaxed">
                   O Ático atua como uma expansiva sala de estar e entretenimento,
-                  perfeitamente integrada à varanda externa, lavabo e à segunda
+                  perfeitamente integrada à varanda externa com jacuzzi, lavabo e à segunda
                   cozinha/churrasqueira — também equipada com móveis Formaplas.
                 </p>
               </div>
