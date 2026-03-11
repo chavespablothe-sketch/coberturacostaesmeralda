@@ -12,7 +12,7 @@ const FirstFloorSection = () => {
             <img
 
               alt="Vista da sala de estar com luz natural e vista para o mar"
-              className="w-full h-[350px] md:h-[500px] object-cover brightness-110 contrast-105 mb-8"
+              className="w-full h-[350px] md:h-[500px] object-cover brightness-110 contrast-110 saturate-110 mb-8"
               loading="lazy" src="/lovable-uploads/857734f9-027f-4df3-a65b-c25ecf8c90dc.png" />
             
             <div className="text-center max-w-3xl mx-auto">
@@ -54,7 +54,7 @@ const FirstFloorSection = () => {
               <img
                 src={interior1}
                 alt="Estar social banhado por luz natural com vista para o mar"
-                className="w-full h-[400px] md:h-[500px] object-cover brightness-110 contrast-105"
+                className="w-full h-[400px] md:h-[500px] object-cover brightness-110 contrast-110 saturate-110"
                 loading="lazy" />
               
             </div>
@@ -70,7 +70,7 @@ const FirstFloorSection = () => {
               <img
                 src={kitchen}
                 alt="Cozinha com armários Formaplas e eletrodomésticos Spicy"
-                className="w-full h-[400px] md:h-[500px] object-cover brightness-110 contrast-105"
+                className="w-full h-[400px] md:h-[500px] object-cover brightness-110 contrast-110 saturate-110"
                 loading="lazy" />
               
             </div>

@@ -71,7 +71,7 @@ const GallerySection = () => {
             <img
               src={images[0].src}
               alt={images[0].alt}
-              className="w-full h-full min-h-[400px] md:min-h-[600px] object-cover brightness-105 contrast-105 transition-transform duration-700 group-hover:scale-105"
+              className="w-full h-full min-h-[400px] md:min-h-[600px] object-cover brightness-110 contrast-110 saturate-110 transition-transform duration-700 group-hover:scale-105"
               loading="lazy"
             />
           </div>
@@ -85,7 +85,7 @@ const GallerySection = () => {
               <img
                 src={img.src}
                 alt={img.alt}
-                className="w-full h-[290px] object-cover brightness-105 contrast-105 transition-transform duration-700 group-hover:scale-105"
+                className="w-full h-[290px] object-cover brightness-110 contrast-110 saturate-110 transition-transform duration-700 group-hover:scale-105"
                 loading="lazy"
               />
             </div>
@@ -103,7 +103,7 @@ const GallerySection = () => {
               <img
                 src={img.src}
                 alt={img.alt}
-                className="w-full h-[200px] md:h-[220px] object-cover brightness-105 contrast-105 transition-transform duration-700 group-hover:scale-105"
+                className="w-full h-[200px] md:h-[220px] object-cover brightness-110 contrast-110 saturate-110 transition-transform duration-700 group-hover:scale-105"
                 loading="lazy"
               />
             </div>

@@ -7,7 +7,7 @@ const HeroSection = () => {
       <img
         src={heroImg}
         alt="Cobertura Duplex Costa Esmeralda — vista panorâmica para o mar"
-        className="absolute inset-0 w-full h-full object-cover brightness-105 contrast-105"
+        className="absolute inset-0 w-full h-full object-cover brightness-110 contrast-110 saturate-110"
         loading="eager"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />

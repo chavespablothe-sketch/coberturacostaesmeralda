@@ -45,7 +45,7 @@ const OverviewSection = () => {
             <img
               src={livingImg}
               alt="Fachada do Residencial Costa Esmeralda"
-              className="w-full h-[500px] md:h-[600px] object-cover brightness-105 contrast-105"
+              className="w-full h-[500px] md:h-[600px] object-cover brightness-110 contrast-110 saturate-110"
               loading="lazy"
             />
           </div>
