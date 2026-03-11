@@ -31,7 +31,7 @@ const PricingSection = () => {
           <div className="text-sm md:text-base font-sans text-muted-foreground leading-relaxed space-y-4 text-left max-w-2xl mx-auto">
             <p>
               Considerando o valor médio do metro quadrado em Florianópolis
-              — atualmente na faixa de R$&nbsp;12&nbsp;mil a R$&nbsp;13&nbsp;mil,
+              — atualmente na faixa de R$&nbsp;12&nbsp;mil a R$&nbsp;14&nbsp;mil,
               segundo dados do índice FipeZap — e levando em conta que regiões
               nobres como Agronômica e Beira-Mar Norte frequentemente superam
               essa média, o valor apresentado posiciona o imóvel como uma

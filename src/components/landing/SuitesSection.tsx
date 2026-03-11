@@ -9,9 +9,9 @@ const suites = [
     alt: "Suíte 01 — quarto principal",
   },
   {
-    title: "Suíte 02",
+    title: "Suíte 02 — Principal",
     subtitle: "com Hidromassagem",
-    desc: "Conforto elevado ao máximo com banheiro equipado com hidromassagem exclusiva.",
+    desc: "A suíte principal, projetada para o descanso absoluto com banheiro equipado com hidromassagem exclusiva.",
     img: bathroom,
     alt: "Suíte 02 — banheiro com hidromassagem",
   },
