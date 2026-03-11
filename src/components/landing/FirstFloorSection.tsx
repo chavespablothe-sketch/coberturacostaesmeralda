@@ -20,7 +20,7 @@ const FirstFloorSection = () => {
               </h2>
               <p className="text-base font-sans text-muted-foreground leading-relaxed">
                 O primeiro pavimento foi desenhado para maximizar a iluminação e a ventilação cruzada.
-                Um living integrado que convida o horizonte da Agronômica para dentro da sua sala de estar todos os dias.
+                Um living integrado que convida o horizonte para dentro da sua sala de estar todos os dias.
               </p>
             </div>
           </div>
