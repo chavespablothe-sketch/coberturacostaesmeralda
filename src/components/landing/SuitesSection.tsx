@@ -4,7 +4,7 @@ import suite3Room from "@/assets/property/suite3-room.png";
 const suites = [
   {
     title: "Suíte 01",
-    desc: "A suíte principal, projetada para o descanso absoluto com vista privilegiada.",
+    desc: "Conforto e praticidade em um ambiente acolhedor.",
     img: bedroom,
     alt: "Suíte 01 — quarto principal",
   },
