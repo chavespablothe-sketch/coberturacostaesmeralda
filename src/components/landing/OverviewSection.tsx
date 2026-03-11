@@ -1,4 +1,4 @@
-import livingImg from "@/assets/property/living.jpg";
+import livingViewImg from "@/assets/property/living-view.png";
 
 const stats = [
   { value: "16", desc: "Unidades no total.\nA exclusividade de não ser apenas mais um." },
@@ -43,7 +43,7 @@ const OverviewSection = () => {
 
           <div className="relative">
             <img
-              src={livingImg}
+              src={livingViewImg}
               alt="Fachada do Residencial Costa Esmeralda"
               className="w-full h-[500px] md:h-[600px] object-cover brightness-110 contrast-110 saturate-110"
               loading="lazy"
