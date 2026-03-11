@@ -54,7 +54,7 @@ const FirstFloorSection = () => {
               <img
                 src={interior1}
                 alt="Estar social banhado por luz natural com vista para o mar"
-                className="w-full h-[400px] md:h-[500px] object-cover brightness-110 contrast-105"
+                className="w-full h-[400px] md:h-[500px] object-cover brightness-110 contrast-110 saturate-110"
                 loading="lazy" />
               
             </div>
