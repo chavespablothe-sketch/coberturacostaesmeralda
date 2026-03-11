@@ -12,8 +12,6 @@ import gallery5 from "@/assets/property/gallery5.jpg";
 import jacuzzi from "@/assets/property/jacuzzi.jpg";
 import balcony from "@/assets/property/balcony.jpg";
 import terrace from "@/assets/property/terrace.jpg";
-import salao1 from "@/assets/property/salao1.jpg";
-import salao2 from "@/assets/property/salao2.jpg";
 
 const images = [
   { src: view, alt: "Vista panorâmica — varanda do Ático" },
@@ -27,8 +25,6 @@ const images = [
   { src: terrace, alt: "Varanda privativa do Ático" },
   { src: balcony, alt: "Varanda privativa — outro ângulo" },
   { src: gallery1, alt: "Vista da sala de estar" },
-  { src: salao1, alt: "Salão de Festas" },
-  { src: salao2, alt: "Salão de Festas — outro ângulo" },
 ];
 
 const GallerySection = () => {
