@@ -5,13 +5,14 @@ const ContactSection = () => {
     <section id="contato" className="py-24 md:py-36 px-6 md:px-16 lg:px-24 bg-luxury-charcoal text-white">
       <div className="max-w-3xl mx-auto text-center fade-section">
         <p className="text-sm font-sans tracking-widest uppercase text-white/50 mb-4">
-          Contato
+          Interesse
         </p>
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-serif mb-6">
-          Agende uma <span className="italic">visita</span>
+          Conheça <span className="italic">pessoalmente</span>
         </h2>
         <p className="text-lg font-sans text-white/70 mb-12 max-w-lg mx-auto">
-          Entre em contato para conhecer esta cobertura pessoalmente.
+          Agende uma visita exclusiva e descubra cada detalhe desta cobertura
+          de perto. Nosso atendimento é personalizado e sem compromisso.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">

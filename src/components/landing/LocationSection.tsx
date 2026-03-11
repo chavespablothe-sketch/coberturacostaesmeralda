@@ -64,11 +64,11 @@ const LocationSection = () => {
               <p><strong className="text-secondary">Raio 4 (Conexões Amplas):</strong> A 10 minutos do Shopping Villa Romana e Universidades (UFSC/UDESC); a menos de 20 minutos da Lagoa da Conceição.</p>
             </div>
           </div>
-          <div>
+          <div className="flex items-center justify-center">
             <img
               src={locationMapImg}
               alt="Localização do Residencial Costa Esmeralda na Agronômica"
-              className="w-full h-[350px] object-cover brightness-105 contrast-105 opacity-80"
+              className="w-full h-auto max-h-[500px] object-contain brightness-105 contrast-105 opacity-80"
               loading="lazy"
             />
           </div>
