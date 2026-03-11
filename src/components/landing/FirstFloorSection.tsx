@@ -1,3 +1,4 @@
+import luzNatural from "@/assets/property/luz-natural.png";
 import interior1 from "@/assets/property/interior1.jpg";
 import kitchen from "@/assets/property/kitchen.jpg";
 
