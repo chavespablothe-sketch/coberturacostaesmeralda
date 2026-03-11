@@ -1,4 +1,4 @@
-import livingImg from "@/assets/property/living.jpg";
+import livingViewImg from "@/assets/property/living-view.png";
 
 const stats = [
   { value: "16", desc: "Unidades no total.\nA exclusividade de não ser apenas mais um." },
