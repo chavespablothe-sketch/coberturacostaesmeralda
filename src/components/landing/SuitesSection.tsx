@@ -19,8 +19,8 @@ const suites = [
     title: "Suíte 03",
     subtitle: "com Hidromassagem",
     desc: "Reversível em estar social + lavabo do Ático. Um espaço inteligente que se adapta ao seu estilo de vida.",
-    img: null,
-    alt: "",
+    img: suite3Room,
+    alt: "Suíte 03 — reversível em estar social",
   },
 ];
 
