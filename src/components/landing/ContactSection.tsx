@@ -2,7 +2,7 @@ import { MessageCircle, Phone } from "lucide-react";
 
 const ContactSection = () => {
   return (
-    <section id="contato" className="py-20 md:py-32 px-6 md:px-16 lg:px-24 bg-luxury-charcoal text-white">
+    <section id="contato" className="py-24 md:py-36 px-6 md:px-16 lg:px-24 bg-luxury-charcoal text-white">
       <div className="max-w-3xl mx-auto text-center fade-section">
         <p className="text-sm font-sans tracking-widest uppercase text-white/50 mb-4">
           Contato

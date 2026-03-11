@@ -7,7 +7,7 @@ const stats = [
 ];
 const OverviewSection = () => {
   return (
-    <section className="py-20 md:py-32 px-6 md:px-16 lg:px-24 bg-background">
+    <section className="py-24 md:py-36 px-6 md:px-16 lg:px-24 bg-background">
       <div className="max-w-7xl mx-auto">
         <div className="grid md:grid-cols-2 gap-12 lg:gap-20 items-center fade-section">
           <div>
