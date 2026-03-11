@@ -1,5 +1,6 @@
 import { useScrollFade } from "@/hooks/useScrollFade";
 import HeroSection from "@/components/landing/HeroSection";
+import MasterpieceSection from "@/components/landing/MasterpieceSection";
 import OverviewSection from "@/components/landing/OverviewSection";
 import LocationSection from "@/components/landing/LocationSection";
 import FirstFloorSection from "@/components/landing/FirstFloorSection";
@@ -16,6 +17,7 @@ const Index = () => {
   return (
     <main className="overflow-x-hidden">
       <HeroSection />
+      <MasterpieceSection />
       <OverviewSection />
       <LocationSection />
       <FirstFloorSection />
