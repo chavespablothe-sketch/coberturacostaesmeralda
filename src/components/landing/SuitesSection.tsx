@@ -1,6 +1,6 @@
 import bedroom from "@/assets/property/bedroom.jpg";
 import bathroom from "@/assets/property/bathroom.jpg";
-import gallery3 from "@/assets/property/gallery3.jpg";
+import suite3Room from "@/assets/property/suite3-room.png";
 import gallery4 from "@/assets/property/gallery4.jpg";
 
 const suites = [
@@ -21,7 +21,7 @@ const suites = [
     title: "Suíte 03",
     subtitle: "com Hidromassagem",
     desc: "Reversível em estar social + lavabo do Ático. Um espaço inteligente que se adapta ao seu estilo de vida.",
-    img: gallery3,
+    img: suite3Room,
     alt: "Suíte 03 — reversível em estar social",
     detail: {
       img: gallery4,
