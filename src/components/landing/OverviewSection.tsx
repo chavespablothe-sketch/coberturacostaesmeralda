@@ -1,4 +1,4 @@
-import hero2Img from "@/assets/property/hero2.jpg";
+import buildingImg from "@/assets/property/building.png";
 
 const stats = [
   { value: "16", desc: "Unidades no total.\nA exclusividade de não ser apenas mais um." },
@@ -7,7 +7,7 @@ const stats = [
 ];
 const OverviewSection = () => {
   return (
-    <section className="py-20 md:py-32 px-6 md:px-16 lg:px-24 bg-background">
+    <section className="py-24 md:py-36 px-6 md:px-16 lg:px-24 bg-background">
       <div className="max-w-7xl mx-auto">
         <div className="grid md:grid-cols-2 gap-12 lg:gap-20 items-center fade-section">
           <div>
@@ -42,7 +42,7 @@ const OverviewSection = () => {
 
           <div className="relative">
             <img
-              src={hero2Img}
+              src={buildingImg}
               alt="Fachada do Residencial Costa Esmeralda"
               className="w-full h-[500px] md:h-[600px] object-cover brightness-110 contrast-110 saturate-110"
               loading="lazy"

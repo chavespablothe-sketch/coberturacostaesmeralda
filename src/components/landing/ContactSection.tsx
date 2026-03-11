@@ -2,7 +2,7 @@ import { MessageCircle, Phone } from "lucide-react";
 
 const ContactSection = () => {
   return (
-    <section id="contato" className="py-20 md:py-32 px-6 md:px-16 lg:px-24 bg-luxury-charcoal text-white">
+    <section id="contato" className="py-24 md:py-36 px-6 md:px-16 lg:px-24 bg-luxury-charcoal text-white">
       <div className="max-w-3xl mx-auto text-center fade-section">
         <p className="text-sm font-sans tracking-widest uppercase text-white/50 mb-4">
           Contato
@@ -16,7 +16,7 @@ const ContactSection = () => {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="https://wa.me/5548999999999?text=Olá! Tenho interesse na cobertura duplex do Costa Esmeralda."
+            href="https://wa.me/5548984238877?text=Olá! Tenho interesse na cobertura duplex do Costa Esmeralda."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-3 px-8 py-4 bg-[#25D366] text-white font-sans text-sm tracking-widest uppercase hover:bg-[#20bd5a] transition-colors"
@@ -25,7 +25,7 @@ const ContactSection = () => {
             WhatsApp
           </a>
           <a
-            href="tel:+5548999999999"
+            href="tel:+5548984238877"
             className="inline-flex items-center justify-center gap-3 px-8 py-4 border border-white/30 text-white font-sans text-sm tracking-widest uppercase hover:bg-white/10 transition-colors"
           >
             <Phone className="w-5 h-5" />

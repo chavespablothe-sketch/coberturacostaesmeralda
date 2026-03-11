@@ -11,6 +11,14 @@ import FloorplanSection from "@/components/landing/FloorplanSection";
 import MarketSection from "@/components/landing/MarketSection";
 import ContactSection from "@/components/landing/ContactSection";
 
+const SectionDivider = ({ variant = "light" }: { variant?: "light" | "dark" }) => (
+  <div className={variant === "dark" ? "bg-primary" : "bg-background"}>
+    <div className="max-w-7xl mx-auto px-6 md:px-16 lg:px-24">
+      <div className={`h-[1px] ${variant === "dark" ? "bg-primary-foreground/10" : "bg-border"}`} />
+    </div>
+  </div>
+);
+
 const Index = () => {
   useScrollFade();
 
