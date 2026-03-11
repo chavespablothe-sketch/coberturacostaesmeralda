@@ -1,6 +1,6 @@
 import staircase from "@/assets/property/staircase.jpg";
 import gallery5 from "@/assets/property/gallery5.jpg";
-import gallery6 from "@/assets/property/gallery6.jpg";
+import gourmetSpace from "@/assets/property/gourmet-space.png";
 import gallery3 from "@/assets/property/gallery3.jpg";
 
 const AticoSection = () => {
@@ -81,7 +81,7 @@ const AticoSection = () => {
       <div className="py-0">
         <div className="fade-section">
           <img
-            src={gallery6}
+            src={gourmetSpace}
             alt="Espaço gourmet do Ático com churrasqueira e vista panorâmica"
             className="w-full h-[400px] md:h-[550px] object-cover brightness-110 contrast-105"
             loading="lazy" />
