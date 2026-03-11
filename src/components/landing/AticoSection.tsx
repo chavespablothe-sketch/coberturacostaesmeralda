@@ -67,7 +67,7 @@ const AticoSection = () => {
                 suíte máster, completa com hidromassagem exclusiva.
               </p>
               <img
-                src={gallery3}
+                src={bedroom}
                 alt="Terceira suíte reversível com banheiro e hidromassagem"
                 className="w-full h-[280px] object-cover brightness-110 contrast-105"
                 loading="lazy"
