@@ -14,7 +14,7 @@ const AticoSection = () => {
               <img
                 src={staircase}
                 alt="Escadaria de acesso ao Ático"
-                className="w-full h-full min-h-[280px] max-h-[380px] object-cover brightness-110 contrast-105"
+                className="w-full h-full min-h-[320px] max-h-[420px] object-cover object-center brightness-110 contrast-105 saturate-110"
                 loading="lazy"
               />
             </div>
