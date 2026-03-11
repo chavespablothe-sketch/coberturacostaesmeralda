@@ -70,7 +70,7 @@ const FirstFloorSection = () => {
               <img
                 src={kitchen}
                 alt="Cozinha com armários Formaplas e eletrodomésticos Spicy"
-                className="w-full h-[400px] md:h-[500px] object-cover brightness-110 contrast-105"
+                className="w-full h-[400px] md:h-[500px] object-cover brightness-110 contrast-110 saturate-110"
                 loading="lazy" />
               
             </div>
